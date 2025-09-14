@@ -3,20 +3,21 @@
 <h1 align="center">👋 Hi, I'm Prutha Patel</h1>
 
 
-## 💡 About Me 
+### 💡 About Me 
 
 
-I’m a **data analytics enthusiast** who loves turning raw data into **actionable insights**.  
-With a blend of **Python (Pandas, NumPy, Matplotlib, Seaborn)**, **SQL**, and **Power BI**,  
-I build **interactive dashboards** and conduct deep analysis that helps in **data-driven decisions**.  
+I am a **data-driven professional** passionate about exploring datasets, uncovering patterns, and creating **insightful dashboards**.  
+I specialize in:  
 
-- 🔍 Skilled in **data cleaning, exploratory data analysis (EDA), and visualization**  
-- 📊 Passionate about **storytelling with data**  
-- 🚀 Always learning: Advanced analytics, Streamlit dashboards, and ML for business use cases  
+- 📊 **Data Cleaning & EDA** (Python, SQL)  
+- 🎨 **Interactive Dashboards** (Power BI, Streamlit)  
+- 📈 **Business Insights** (Sales, Healthcare, Entertainment, Finance)  
+- 🧠 Turning raw data into **stories that drive decisions**  
 
+###### 💡 *“Data is powerful, but only when transformed into insight.”*  
 ---
 
-## 🛠️ Core Tech Stack  
+### ⚡ Skills & Technologies  
 
 <p align="center">
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power-BI&logoColor=black"/>
@@ -24,34 +25,31 @@ I build **interactive dashboards** and conduct deep analysis that helps in **dat
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Matplotlib-005571?style=for-the-badge&logo=plotly&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
 
 ---
-## 📂 Featured Projects  
+### 📂 Projects  
 
 
-### 🎬 Netflix Data Analysis  
-- Cleaned and analyzed Netflix dataset with **Python**  
-- Insights: trends in genres, countries, content ratings  
-- Visualizations: content growth, movie vs TV shows  
-
-🔗 [View Project](https://github.com/pruthapatel05/Netflix-Data-Analysis-Using-Python)
-
-
-### 🏥 Hospital ER Dashboard  
+#### 🏥 Hospital ER Dashboard  
 - Cleaned hospital dataset in **Python**  
 - Built **Power BI dashboard** for ER operations & performance tracking  
 - Showcased utilization, admissions, and wait times  
 
 🔗 [View Project](https://github.com/pruthapatel05/Hospital-Emergency-Room-Dashboard)
 
+---
 
-## 📫 Connect With Me  
+### 📫 Connect With Me  
 
 <p align="center">
   <a href="https://www.linkedin.com/pruthapatel05"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
@@ -61,19 +59,6 @@ I build **interactive dashboards** and conduct deep analysis that helps in **dat
 
 ---
 
-⭐ *“Data is not just numbers — it’s the story behind decisions.”*
+#### ✨ “Let’s turn data into decisions together, explore my work and connect with me!”
 
-<!--
-**pruthapatel05/pruthapatel05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
