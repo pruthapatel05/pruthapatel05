@@ -9,9 +9,9 @@
 I am a **data-driven professional** passionate about exploring datasets, uncovering patterns, and creating **insightful dashboards**.  
 I specialize in:  
 
-- 📊 **Data Cleaning & EDA** (Python, SQL)  
-- 🎨 **Interactive Dashboards** (Power BI, Streamlit)  
-- 📈 **Business Insights** (Sales, Healthcare, Entertainment, Finance)  
+- 📊 **Data Cleaning & EDA**  
+- 🎨 **Interactive Dashboards**   
+- 📈 **Business Insights** 
 - 🧠 Turning raw data into **stories that drive decisions**  
 
 ###### 💡 *“Data is powerful, but only when transformed into insight.”*  
