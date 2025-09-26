@@ -49,6 +49,13 @@ I specialize in:
 
 🔗 [View Project](https://github.com/pruthapatel05/Spotify-Dashboard)
 
+#### 🎬 Netflix Data Analysis
+
+- Analyzed and visualized Netflix’s content dataset using Python / Jupyter Notebook
+- Explored content trends: genres, countries, release years
+- Addressed business questions: evolution over time, dominant categories, movies vs TV shows
+
+  🔗 [View Project](https://github.com/pruthapatel05/Netflix-Data-Analysis-Using-Python)
 ---
 
 ### 📫 Connect With Me  
