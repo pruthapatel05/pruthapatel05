@@ -45,13 +45,12 @@ I specialize in:
 - Built an interactive Power BI dashboard
 - Visualizes top artists, albums, and tracks
 - Shows listening trends over time
-- Provides engaging and clean insights
 
   🔗 [View Project](https://github.com/pruthapatel05/Spotify-Dashboard)
 
 #### 🎬 Netflix Data Analysis
 
-- Analyzed and visualized Netflix’s content dataset using Python / Jupyter Notebook
+- Analyzed and visualized Netflix’s content dataset using Python
 - Explored content trends: genres, countries, release years
 - Addressed business questions: evolution over time, dominant categories, movies vs TV shows
   
