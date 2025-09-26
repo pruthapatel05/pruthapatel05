@@ -40,12 +40,14 @@ I specialize in:
 ### 📂 Projects  
 
 
-#### 🏥 Hospital ER Dashboard  
-- Cleaned hospital dataset in **Python**  
-- Built **Power BI dashboard** for ER operations & performance tracking  
-- Showcased utilization, admissions, and wait times  
+#### 🎵 Spotify Dashboard
 
-🔗 [View Project](https://github.com/pruthapatel05/Hospital-Emergency-Room-Dashboard)
+- Built an interactive Power BI dashboard
+- Visualizes top artists, albums, and tracks
+- Shows listening trends over time
+- Provides engaging and clean insights
+
+🔗 [View Project](https://github.com/pruthapatel05/Spotify-Dashboard)
 
 ---
 
