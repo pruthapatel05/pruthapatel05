@@ -7,7 +7,6 @@
 
 
 I am a **data-driven professional** passionate about exploring datasets, uncovering patterns, and creating **insightful dashboards**.  
-I specialize in:  
 
 - 📊 **Data Cleaning & EDA**  
 - 🎨 **Interactive Dashboards**   
