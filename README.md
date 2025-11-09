@@ -13,7 +13,13 @@ I am a **data-driven professional** passionate about exploring datasets, uncover
 - 📈 **Business Insights** 
 - 🧠 Turning raw data into **stories that drive decisions**  
 
-###### 💡 *“Data is powerful, but only when transformed into insight.”*  
+###### 💡 *“Data is powerful, but only when transformed into insight.”* 
+
+## 📄 Resume
+
+You can download my resume here:
+
+[![Download Resume](https://img.shields.io/badge/Download%20Resume-PDF-blue?style=for-the-badge&logo=adobeacrobatreader)](https://drive.google.com/file/d/1Eoc8GqNAQl9KWIFXXFEOv2umYOlObIs1/view?usp=drive_link)
 ---
 
 ### ⚡ Skills & Technologies  
