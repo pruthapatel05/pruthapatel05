@@ -15,7 +15,7 @@ I am a **data-driven professional** passionate about exploring datasets, uncover
 
 ###### 💡 *“Data is powerful, but only when transformed into insight.”* 
 
-## 📄 Resume
+### 📄 Resume
 
 You can download my resume here:
 
